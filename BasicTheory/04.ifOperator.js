@@ -1,5 +1,8 @@
 // Operadores Condicionales o Lógicos
 
+
+// IF permite evaluar una o más condiciones y ejecutar código dependiendo del resultado de esa o esas condiciones.
+
 let y = true;
 let z = false;
 
